@@ -1,0 +1,12 @@
+#
+# Prettier Ignore List
+#
+
+.next
+.husky
+.github
+public
+
+#
+# END
+#
